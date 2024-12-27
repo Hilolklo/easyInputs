@@ -1,5 +1,6 @@
 # EasyInputs
-This API was not made by me.
+This API was not made by me it was made by @KinexDev.
+Here is KinexDev GitHub: https://github.com/KinexDev
 It was made from someone who deleted his repository and im simply just uploading it again!
 To import the package to **Unity**, simply download it from github and then import it into Unity.
 To use the API you have to do this:
