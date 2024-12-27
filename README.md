@@ -17,7 +17,7 @@ To use the API you have to do this:
 
 An example for use of the **EasyInputs API**:
 
-    if(EasyInputs.GetTriggerButtonDown(EasyHand.RightHand));
+    if(EasyInputs.GetTriggerButtonDown(EasyHand.RightHand))
 
 
 ## Examples
