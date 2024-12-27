@@ -1,7 +1,6 @@
 # EasyInputs
 This API was not made by me it was made by @KinexDev.
 
-
 Here is KinexDev GitHub: https://github.com/KinexDev
 
 
